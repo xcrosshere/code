@@ -11,7 +11,8 @@ def print_results(data_path):
         print('std_accu=', np.std(np.array(data['accus'])))
         print('mean_accu=', np.max(np.mean(data['accus'], axis=0)))
     if 'cnn' in data_path:
-        print('accuracies=', data['accus'])
+        accus = np.max(data['accus'], 1)
+        print('accuracies=', accus)
         print('mean_accu=', np.mean(accus))
         print('std_accu=', np.std(accus))
 
