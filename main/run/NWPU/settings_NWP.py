@@ -1,0 +1,1 @@
+params_ottc = dict(times=3, split_setup=dict(train_size=140, test_size=60), reset=False)

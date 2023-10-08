@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/工作/无锡职业技术学院-工作/课程/课程集/数据可视化技术/参考/NumPy/.idea/NumPy.iml" filepath="D:/工作/无锡职业技术学院-工作/课程/课程集/数据可视化技术/参考/NumPy/.idea/NumPy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+      <module fileurl="file://D:/工作/无锡职业技术学院-工作/课程/课程集/数据可视化技术/参考/my_pandas/.idea/my_pandas.iml" filepath="D:/工作/无锡职业技术学院-工作/课程/课程集/数据可视化技术/参考/my_pandas/.idea/my_pandas.iml" />
+      <module fileurl="file://Z:/data/intermediate_data/obtain_cls_scores/.idea/obtain_cls_scores.iml" filepath="Z:/data/intermediate_data/obtain_cls_scores/.idea/obtain_cls_scores.iml" />
+      <module fileurl="file://D:/工程/eclipse/opencv/.idea/opencv.iml" filepath="D:/工程/eclipse/opencv/.idea/opencv.iml" />
+      <module fileurl="file://E:/工程/pycharm/pytorch_class/.idea/pytorch_class.iml" filepath="E:/工程/pycharm/pytorch_class/.idea/pytorch_class.iml" />
+      <module fileurl="file://E:/工程/pycharm/test_django/.idea/test_django.iml" filepath="E:/工程/pycharm/test_django/.idea/test_django.iml" />
+      <module fileurl="file://E:/工程/pycharm/untitled/.idea/untitled.iml" filepath="E:/工程/pycharm/untitled/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
