@@ -24,7 +24,7 @@ def get_params_odfdf(coding_method, dict_size):
     elif coding_method == 'sv':
         params_odfdf = dict(dict_size=dict_size, dict_method='Kmeans', reset=False, norm=False)
     elif coding_method == 'llc':
-        params_odfdf = dict(dict_size=dict_size, dict_method='Kmeans', reset=False, norm=True)
+        params_odfdf = dict(dict_size=dict_size, dict_method='Kmeans', reset=False, norm=False)
     elif coding_method == 'hv':
         params_odfdf = dict(dict_size=dict_size, dict_method='Kmeans', reset=False, norm=False)
     elif coding_method == 'no_coding':
