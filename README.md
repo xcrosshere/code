@@ -1,3 +1,4 @@
+This is the source code for the paper titled "Using Pre-trained Deep Learning Models as Feature Extractors in the Bag-of-Deep-Visual-Words Model: A Consistent Accuracy Improvement?".
 
 1. Set the root directory path for the dataset in the settings.py file, for example: data_path = r'/home/x/Desktop/code/data'.
 2. Unzip the datasets into the datasets folder, with each dataset in a separate folder. The folder names should be 15-Scenes, Caltech-101, COVID-19, MIT Indoor-67, NWPU, TF-Flowers.
