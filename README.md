@@ -32,3 +32,6 @@ torchvision==0.15.1
         LLC.py: Classify using the BoDVW (local-constraint linear coding) model.
         SVC.py: Classify using the BoDVW (super vector coding) model.
 5. Run the print_results.py file to print the results. You need to specify the path of the .pkl file where the results are saved. By default, all results are stored in the data/intermediate_data/obtain_cls_scores/ folder.
+
+
+In addition to our written documentation, we have also provided a comprehensive video tutorial that demonstrates how to set up the necessary environment, run the code, and view the results. This visual guide is designed to complement our written instructions, providing a step-by-step walkthrough that you can follow along at your own pace. You can access this video tutorial at https://zenodo.org/records/10115784
