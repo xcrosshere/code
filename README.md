@@ -3,13 +3,21 @@ This is the source code for the paper titled "Can Using a Pre-trained Deep Learn
 Dependencies:
 
 joblib==1.1.1
+
 matplotlib==3.7.0
+
 numpy==1.23.5
+
 opencv_python==4.7.0.72
+
 Pillow==9.4.0
+
 scikit_learn==1.2.1
+
 scipy==1.10.0
+
 torch==2.0.0
+
 torchvision==0.15.1
 
 
