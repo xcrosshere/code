@@ -1,4 +1,25 @@
-This is the source code for the paper titled "Can Using Pre-trained Deep Learning Models as Feature Extractors in the Bag-of-Deep-Visual-Words Model Always Improve Image Classification Accuracy?".
+This is the source code for the paper titled "Can Using a Pre-trained Deep Learning Model as the Feature Extractor in the Bag-of-Deep-Visual-Words Model Always Improve Image Classification Accuracy?".
+
+Dependencies:
+
+joblib==1.1.1
+
+matplotlib==3.7.0
+
+numpy==1.23.5
+
+opencv_python==4.7.0.72
+
+Pillow==10.1.0
+
+scikit_learn==1.2.1
+
+scipy==1.10.0
+
+torch==2.0.0
+
+torchvision==0.15.1
+
 
 1. Set the root directory path for the dataset in the settings.py file, for example: data_path = r'/home/x/Desktop/code/data'.
 2. Unzip the datasets into the datasets folder, with each dataset in a separate folder. The folder names should be 15-Scenes, Caltech-101, COVID-19, MIT Indoor-67, NWPU, TF-Flowers.
